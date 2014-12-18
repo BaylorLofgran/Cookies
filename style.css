@@ -1,20 +1,26 @@
 body {
-    background-color: #d0e4fe;
+    background-color: #edca8e;
 }
 
 h1 {
     color: yellow;
     font-size: 50px;
-    padding-top: 80px;
-    padding-right: 300px;
     font-family: "Comic Sans MS";
+    
 }
 
 p {
     font-family: "Comic Sans MS";
     font-size: 20px;
+<<<<<<< HEAD
     text-align: Left;
     padding-left: 100px;
     padding-right: 1100px;
     padding-top: 150px;
 }
+=======
+    text-align: center;   
+    
+}
+
+>>>>>>> FETCH_HEAD
