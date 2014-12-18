@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    color: orange;
+    color: yellow;
     font-size: 50px;
     padding-top: 80px;
     padding-right: 300px;
@@ -13,7 +13,7 @@ h1 {
 p {
     font-family: "Comic Sans MS";
     font-size: 20px;
-    text-align: left;
+    text-align: Left;
     padding-left: 100px;
     padding-right: 1100px;
     padding-top: 150px;
